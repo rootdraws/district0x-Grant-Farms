@@ -3,7 +3,7 @@ DeFi Community Gardens
 
 .:. 
 
-<h3><b>Problem Case:</b></h3>
+<h3><b>Use Case #1: A Gardener Grows & Manages their $BAEPAY Community Garden.</b></h3>
 
 $BAEPAY has a number of assets for their business: 
 
@@ -11,18 +11,18 @@ $BAEPAY has a number of assets for their business:
 * They have an extensive <a href="https://www.cryptovoxels.com/play?coords=N@187W,103N">Cryptovoxels Gallery</a>.
 * They have a regular email newsletter with interviews on highlighted artists. 
 * They have a platform with a marketplace - <a href="https://www.blockchainartexchange.co.uk/">Blockchain Art Exchange [BAE]</a>.
-* They have their own Currency, with <a href="https://etherscan.io/token/0xa14c40b83885e1f8d516e0e43a7361f31eca6854#balances">[Liquidity Providers].</a> 
+* They have their own Currency, with <a href="https://etherscan.io/token/0xa14c40b83885e1f8d516e0e43a7361f31eca6854#balances">Liquidity Providers.</a> 
 * They offer their Liquiditiy Providers Rewards <a href="https://blockchainartex.medium.com/baepay-the-first-real-reward-token-b23b10c96965">outlined in this whitepaper.</a>
 
 BAE still suffers from: 
 
-* Lack of adoption of their platform. 
+* Lack of adoption of their platform, in the face of competition with major platforms.
 * Lack of financial support for their marketing endeavors. 
 * Lack of stability in their Uniswap Pools. 
 
-In order to combat this issue, <a href="SaschaBailey">Sascha Bailey</a> has created Liquidty Provider Rewards each month for the next ~ 2 years. This is an opportunity for investors to contribute to the <a href="https://info.uniswap.org/pair/0xa14c40b83885e1f8d516e0e43a7361f31eca6854">Uniswap BAEPAY - ETH Pool.</a> 
+<a href="SaschaBailey">Sascha Bailey</a> is offering Liquidty Provider Rewards each month for the next ~ 2 years to combat these issues. This is an opportunity for investors to contribute to the <a href="https://info.uniswap.org/pair/0xa14c40b83885e1f8d516e0e43a7361f31eca6854">Uniswap BAEPAY - ETH Pool.</a> 
 
-In return for providing this Liquidity, @BAEPAYChan Distributes a percentage of 20,000 BAEPAY each Week <a href="https://blockchainartex.medium.com/baepay-the-first-real-reward-token-b23b10c96965"(until approximately January 2022.)</a> -- as well as a bit of ETH each month if you are one of the top 15 Liquidity Providers. 
+In return for providing this Liquidity, <a href="https://twitter.com/baepaychan">@BaepayChan</a> Distributes a percentage of 20,000 $BAEPAY each Week <a href="https://blockchainartex.medium.com/baepay-the-first-real-reward-token-b23b10c96965" (until approximately January 2022.)</a> -- as well as a bit of ETH each month if you are one of the top 15 Liquidity Providers. 
 
 [At the time of writing this, I am a top 15 Liquidity Provider, and I have only provided ~.5 ETH worth of Liquidity for my $BAEPAY Grant Farm.] 
 
