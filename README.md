@@ -3,7 +3,7 @@ DeFi Community Gardens
 
 .:. 
 
-<h3><b>Use Case #1: A Gardener Grows & Manages their $BAEPAY Community Garden.</b></h3>
+<h3><b>Use Case #1: A Gardener Grows & Manages their $BAEPAY Community Garden Plot.</b></h3>
 
 $BAEPAY has a number of assets for their business: 
 
@@ -22,13 +22,16 @@ BAE still suffers from:
 
 <a href="SaschaBailey">Sascha Bailey</a> is offering Liquidty Provider Rewards each month for the next ~ 2 years to combat these issues. This is an opportunity for investors to contribute to the <a href="https://info.uniswap.org/pair/0xa14c40b83885e1f8d516e0e43a7361f31eca6854">Uniswap BAEPAY - ETH Pool.</a> 
 
-In return for providing this Liquidity, <a href="https://twitter.com/baepaychan">@BaepayChan</a> Distributes a percentage of 20,000 $BAEPAY each Week <a href="https://blockchainartex.medium.com/baepay-the-first-real-reward-token-b23b10c96965" (until approximately January 2022.)</a> -- as well as a bit of ETH each month if you are one of the top 15 Liquidity Providers. 
+In return for providing this Liquidity, Sascha's Avatar, <a href="https://twitter.com/baepaychan">@baepaychan</a>, distributes:
+* 20,000 $BAEPAY each week, proportionately to all $BAEPAY Pools, and then proportionately to the Liquidity Providers in the Pool.
+* A little bit of ETH Each Month to the top 15 Slots in the Liquidity Provider Holder Hierarchy. 
+* The Occasional Rare NFT.
 
-[At the time of writing this, I am a top 15 Liquidity Provider, and I have only provided ~.5 ETH worth of Liquidity for my $BAEPAY Grant Farm.] 
+A "Community Garden Plot" is simply a separate wallet with its own keys that has made a contribution to the BAEPAY - ETH liquidity pool, such that the "Harvest" from this contribution consists of as many LP Rewards as possible from that garden. At the time of my writing this, I have created a <a href="https://etherscan.io/address/0xE476C37a862c6603D3179Aa8b10114590Dc1fcfe">$BAEPAY Grant Farm</a> which qualifies for all three of those rewards. 
 
-This means that while the project is committed in itself, the $BAEPAY financial structure could use strengthening - and DeFi Community Gardens can help.  
+This means that the assets that I am able to use for my $BAEPAY Community Challenges [The Harvest], is <b>a weekly deposit of $BAEPAY, a monthly $ETH Deposit,</b> and <b>some NFTs.</b> 
 
-<h3>Solution:</h3> 
+<h3>Scaling this Solution:</h3> 
 DeFi Community Gardens, is a District0x themed community support project, which aims to support projects by training artists to become Community Gardeners, offering support to their own plots of "Grant Farms". 
 
 A <b>Grant Farm</b> is a purposeful contribution toward a project's Liquidity Pool, designed to leverage liquidity provider rewards as grant funds for community challenges.
@@ -37,7 +40,7 @@ The way it works is simple:
 
 An Artist [or Community Gardener] looks at BAE, and thinks of a community event that would benefit the $BAEPAY Holders, and then organizes one. 
 
-An example of this could be a community challenge to create a small comic about their avatar, <a href="https://twitter.com/baepaychan">@BAEPAYChan</a>, and use the sales from that NFT Collection to raise assets for a $BAEPAY Community Garden Plot. 
+An example of this could be a community challenge to create a small comic about their avatar, <a href="https://twitter.com/baepaychan">@baepaychan</a>, and use the sales from that NFT Collection to raise assets for a $BAEPAY Community Garden Plot. 
 
 This event is designed by that Community Gardener as a challenge that they lead, where they design an NFT Collection meant to be sold via Opensea using $BAEPAY [or any ERC-20 Project Token].
 
