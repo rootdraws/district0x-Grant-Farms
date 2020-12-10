@@ -18,11 +18,11 @@ BAE still suffers from:
 
 * Lack of adoption of their platform, in the face of competition with major platforms.
 * Lack of financial support for their marketing endeavors. 
-* Lack of stability in their Uniswap Pools. 
+* Seeking Growth for their Uniswap Pools. 
 
 <a href="SaschaBailey">Sascha Bailey</a> is offering Liquidty Provider Rewards each month for the next ~ 2 years to combat these issues. This is an opportunity for investors to contribute to the <a href="https://info.uniswap.org/pair/0xa14c40b83885e1f8d516e0e43a7361f31eca6854">Uniswap BAEPAY - ETH Pool.</a> 
 
-In return for providing this Liquidity, Sascha's Avatar, <a href="https://twitter.com/baepaychan">@baepaychan</a>, distributes:
+In return for providing this Liquidity, the BAE Avatar, <a href="https://twitter.com/baepaychan">@baepaychan</a>, distributes:
 * 20,000 $BAEPAY each week, proportionately to all $BAEPAY Pools, and then proportionately to the Liquidity Providers in the Pool.
 * A little bit of ETH Each Month to the top 15 Slots in the Liquidity Provider Holder Hierarchy. 
 * The Occasional Rare NFT.
@@ -41,7 +41,7 @@ The way it works is simple:
 
 An Artist [or Community Gardener] looks at BAE, and thinks of a community event that would benefit the $BAEPAY Holders, and then organizes one. 
 
-A community challenge that I will be organizing in February is a Challenge to create a small comic about their avatar, <a href="https://twitter.com/baepaychan">@baepaychan</a>, and use the sales from that NFT Collection to help grow my own $BAEPAY Grant Farm.  
+A community challenge that I will be organizing in February is a Challenge to create a small comic about the BAE avatar, <a href="https://twitter.com/baepaychan">@baepaychan</a>, and use the sales from that NFT Collection to help grow my own $BAEPAY Grant Farm.  
 
 This event is designed by a Community Gardener as a challenge that they lead, where they design an NFT Collection meant to be sold via Opensea using $BAEPAY [or any ERC-20 Project Token].
 
@@ -290,3 +290,10 @@ There also may be a better way to create the META Garden pools, though I don't k
 .:. 
 
 Upon further reflection, it seems like I ought to execute these challenges myself first, before creating a community, and DAO fund, because I only want to manage a community like that with other competent people who share responsibility for that leadership, and alleviate the load of responsibilities needed in order to make this project a remarkable training tool. 
+
+I think that the ideas behind this system are pieces that I'd like to explore once I develop my own iteration of these projects first more throughly. I would also like to have some kind of partner or team to help orchestrate and execute things, because 
+
+Being a Community Gardener, is likely a full time job. 
+In addition to that, orchestrating the Community Gardeners -- seems like one of those positions that you don't really think is a position, but then it is, because you end up having to explain lots of things or train people, or resolve disputes, or whatever else. 
+
+I think I may have gotten excited about the possibilities for the project, when it may be best for me to just focus on executing my own community garden plots, outside of the context of this larger utility.  12/9/2020.
