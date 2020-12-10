@@ -33,7 +33,7 @@ This means that the assets that I am able to use for my $BAEPAY Community Challe
 
 <h3>Scaling this Solution:</h3> 
 
-DeFi Community Gardens, is a District0x themed community support project, which aims to support projects by training artists to become Community Gardeners, invested in growing the liqudiity pools of projects of their choosing, while simultaniously organizing community challenges and art collections for those projects. 
+DeFi Community Gardens, is a District0x themed community support project, which aims to support projects by training artists to become Community Gardeners, invested in growing the liqudity pools of projects of their choosing, while simultaniously organizing community challenges and art collections for those projects. 
 
 A <b>Grant Farm</b> is a purposeful contribution toward a project's Liquidity Pool, designed to leverage liquidity provider rewards as grant funds for community challenges.
 
@@ -62,7 +62,7 @@ Then, It's onto the next challenge - Either for $BAEPAY, or for another project 
 * The Artist builds skills for project management and execution. 
 * The Artist builds a collector base, and involves them in a project goal larger than themselves.
 * The Artist switches their production focus from unfocused one-off NFTs, toward project focused, audience targeted, NFT Collections. 
-* The Artist diversifis their token portfolio, and learns what it means to be an institutional investor, working on behalf of, other projects in the ecosystem that they deem to be worthy of support. 
+* The Artist diversifys their token portfolio, and learns what it means to be an institutional investor, working on behalf of, other projects in the ecosystem that they deem to be worthy of support. 
 * The Artist benefits from a pro-social Wash Trading, where their collections can actually be purchased by the leaders of the projects that they are serving. 
 
 If a project has a budget for purchasing NFTs for liquidity rewards, or a budget for Marketing - [most of them do] - this use case fulfills both of those criterea, which means that it's an easy sell for the controller of the currency for that project, and a win for the artists who do public fundraising rounds, and get to announce increased sales and partnerships.
@@ -101,11 +101,13 @@ Once a year, the META Garden is harvested, and we celebrate the <b>Harvest Festi
 <b>Example:</b>
 
 Root Cultivates his <a href="https://etherscan.io/address/0xbeC346627bA83b471d5ab171618274c5333F9f37">$SKULL Community Garden Plot</a> with 8 Harvests a year.
-Each Harvest, he contributes more to the Plot, growing it in size, and maybe even qualifying for greater $SKULL LP Rewards. <a href="https://beta.cent.co/skeenee/+hhaemj"[Oct '20 $SKULL Report]</a>
+Each Harvest, he contributes more to the Plot, growing it in size, and maybe even qualifying for greater $SKULL LP Rewards. <a href="https://beta.cent.co/skeenee/+hhaemj" -- Oct '20 $SKULL Report details LP Reward levels for $SKULL Pools.</a>
 
-But each time he has a harvest, he knows that seeding the META Garden is important, because then, each year during the <b>HARVEST FESTIVAL</b>, the Yield from the META Garden is used to support a challeng focused on creating Creative Commons Zero Artwork designed to support GITCOIN / GITCOIN projects. 
+Each time Root has a harvest, he knows that seeding the META Garden is important, because each year during the <b>HARVEST FESTIVAL</b>, the Yield from the META Garden is used to support a challeng focused on creating Creative Commons Zero Artwork designed to support GITCOIN / GITCOIN projects. 
 
 What this essentially means, is that each art community that is being lead in challenges by a Community Gardener, will be targeting their community funds, as rewards, for participating in a GITCOIN Focused Challenge. 
+
+The Harvest Festival is a great mythic time, where the Hero Slays Moloch, God of Coordination Failure.  
 
 Over time, the META Garden will increase in size and capacity, essentially providing yet another pillar of stability to each of these projects that provide Liquidity Rewards, and due to the collective nature of the META Garden, that 20 ETH Liquidity Reward for the SKULL - ETH Pool may become a bit more within reach. 
 
@@ -113,7 +115,10 @@ Over time, the META Garden will increase in size and capacity, essentially provi
 
 <h3><b>Use Case #3 EcoSystem Integrations: In Which GITCOIN Requests a ROBOT!!!.</b></h3>
 
-In March, Root Organizes for the #MARCHOFROBOTS Twitter Challenge, and LO AND BEHOLD, a collection of Creative Commons Zero Robots is created.
+In March, Root Organizes for the #MARCHOFROBOTS Twitter Challenge, and LO AND BEHOLD, <a href="https://twitter.com/owocki/status/1330658059396399104">a collection of Creative Commons Zero Robots</a> is created.
+
+As you can see in the linked Tweet above, there is a demand for CC0 Robots.
+
 If Root also leverages his <a href="https://etherscan.io/address/0x77B0F6AB601C6a5B0741CD5B977BB1AaA1794e3e">$KLTR Community Garden Plot!</a>, then perhaps he can create a community challenge that motivates other artists to create collections of CC0 Robots. 
 
 <a href="https://twitter.com/owocki">@Owocki</a> is thrilled. 
@@ -134,11 +139,17 @@ In the case of the <b>HARVEST FESTIVAL</b>, something similar could occure.
 
 <h3><b>Use Case #4 EcoSystem Integrations: Okay, but what if they were GAardeners...your Aavegotchi could be like a little Community GAardener!!!.</b></h3>
 
-This works well, because it's another point of connection to a healthy community -- Which Aavegotchi supports.
-It fits with the pro-social ethos of Aavegotchi, and the Defi ethos of Aave. 
-And Aavegotchis have land coming up -- we really ought to be able to build community gardens on that land for these Grant Projects. 
+* This works well, because it's another point of connection to a healthy community -- Which Aavegotchi supports.
+* It fits with the pro-social ethos of Aavegotchi, and the Defi ethos of Aave. 
+* And Aavegotchis have land coming up -- we really ought to be able to build community gardens on that land for these Grant Projects. 
 
-<h3><b>Use Case #5 ORDO CIVITAS ARATOREM [O.C.A] - [The Secret Society of Master Gardeners.]</b></h3>
+I see this as a longer term development possibility, but I think it's cool, and I like how Aavegotchis can be used to transmit value in NFTs. They are basically little NFT Tradable Grant Farms. 
+
+<h3><b>Use Case #5 Economic Integrations: The Bridge to the FIAT Art World.</b></h3>
+
+
+
+<h3><b>Use Case #6 ORDO CIVITAS ARATOREM [O.C.A] - [The Secret Society of Master Gardeners.]</b></h3>
 
 
 
