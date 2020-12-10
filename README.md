@@ -50,7 +50,7 @@ Depending on the amount of resources that this Community Gardener has to share [
 [These are the LP Rewards distributed weekly, based on the size of the Garden Plot.]
 
 The Community Challenges are Executed. 
-A Substancial amount of profits are channeled into the Grant Farm, and the Community Gardener gets to take a small harvest as well.  
+A Substantial amount of profits are channelled into the Grant Farm, and the Community Gardener gets to take a small harvest as well.  
 * [Ex: 30% Profits to Artist. 70% profits go back into that Gardener's $BAEPAY Community Garden Plot.]
 
 Then, It's onto the next challenge - Either for $BAEPAY, or for another project that the Gardener is passionate about -- and all the while, each plot that the Gardener maintains continues to grow, as long as the Liquidity Provider Reward Agreements are honored, or until they expire. 
@@ -62,10 +62,10 @@ Then, It's onto the next challenge - Either for $BAEPAY, or for another project 
 * The Artist builds skills for project management and execution. 
 * The Artist builds a collector base, and involves them in a project goal larger than themselves.
 * The Artist switches their production focus from unfocused one-off NFTs, toward project focused, audience targeted, NFT Collections. 
-* The Artist diversifys their token portfolio, and learns what it means to be an institutional investor, working on behalf of, other projects in the ecosystem that they deem to be worthy of support. 
+* The Artist diversifies their token portfolio, and learns what it means to be an institutional investor, working on behalf of other projects in the ecosystem that they deem to be worthy of support. 
 * The Artist benefits from a pro-social Wash Trading, where their collections can actually be purchased by the leaders of the projects that they are serving. 
 
-If a project has a budget for purchasing NFTs for liquidity rewards, or a budget for Marketing - [most of them do] - this use case fulfills both of those criterea, which means that it's an easy sell for the controller of the currency for that project, and a win for the artists who do public fundraising rounds, and get to announce increased sales and partnerships.
+If a project has a budget for purchasing NFTs for liquidity rewards, or a budget for Marketing - [most of them do] - this use case fulfills both of those criteria, which means that it's an easy sell for the controller of the currency for that project, and a win for the artists who do public fundraising rounds, and get to announce increased sales and partnerships.
 
 <b>The Outcomes for Collectors:</b>
 
@@ -76,14 +76,14 @@ If a project has a budget for purchasing NFTs for liquidity rewards, or a budget
 
 <b>The Outcomes for the Project:</b>
 
-* The Project is distributing these liquidity rewards anyways. In this way, they are distributing them toward an account that actually wants to leverage them for the benefit of their community. 
+* The Project is distributing these liquidity rewards regardless. In this way, they are distributing them toward an account that actually wants to leverage them for the benefit of their community. 
 * The Project recieves a 'pillar of support', as long as the liquidity rewards are being distributed to the grant - because the incentive for the grant farms is not to cash out liquidity when the market is high. the function of the grant farms is to harvest the LP Rewards, which are the dividends of the initial investment. 
 
 This ought to motivate token issuers to generate compelling, and tiered LP rewards, in order to incentivize Gardeners to Grow their Plots, in order to unlock higher LP rewards. 
 
-* In the ultimate case of a highly successful challenge, we have the $LINK Marines effect, where a wave of cryptoart overtake the social presence of the moment, feuling a FOMO Craze, which PROPELLS the whole community TO THE MOON. 
+* In the ultimate case of a highly successful challenge, we have the $LINK Marines effect, where a wave of cryptoart overtakes the social media presence of the moment, fueling a FOMO Craze, which PROPELLS the whole community TO THE MOON. 
 
-Well Done Gardeners, this is the equivolant of the <b>Super Pumpkin</b>.
+Well Done Gardeners, this is the equivalent of the <b>Super Pumpkin</b>.
 
 [Of course, in smaller segments, this may also be possible just by introducing more quality artists [marketers] and collectors [investors] to their community via the challenge.]
 
@@ -114,6 +114,8 @@ Over time, the META Garden will increase in size and capacity, essentially provi
 
 Visit @Skeenee's <a href="https://beta.cent.co/skeenee/+mr2ow2">November Blog Post for Updates on his Liquidity Pool Reward System,</a> Now including NFT Mining!
 
+[Clarify here about the percentages being up to each individual gardener, and also that the metagarden source comes from the grant funds portion.]
+
 .:. 
 
 <h3><b>Use Case #3 EcoSystem Integrations: In Which GITCOIN Requests a ROBOT!!!.</b></h3>
@@ -132,13 +134,26 @@ Gold stars for all.
 Rewards for Participating:
 
 * Gitcoin Grant Matches, since the project serves them and qualifies as Public Goods, due to Creative Commons Zero Licensing.
-* Profit Share on NFT Sales of Robot Collections [70% of Profits are Donated to the GITCOIN Campaign of the Artist's Choice. 30% of Profits go to Artist.]
+* Profit Share on NFT Sales of Robot Collections [70% of Profits are Donated to the GITCOIN Campaign of the Artist's Choice. 30% of Profits go to Artist.]  [Clarify here that the percentages are up to the artist - and list "no less than x% if you want to direct a majority or significant amount of funds, or stnadardize.]
 * The $KLTR Grant Incentive from the $KLTR Community Garden Plot. 
 
-In the case of the <b>HARVEST FESTIVAL</b>, something similar could occure. 
+In the case of the <b>HARVEST FESTIVAL</b>, something similar could occur. 
+
+[If there is no Meta Garden, there is no harvest festival.]
 
 A solution to some issues may be to make any collections that are for GITCOIN multi-editions, and then gifting the first editions to GITCOIN, and then selling the others. 
 This way, Gitcoin Gets Robots, and Artwork, and the participating artists get Grant Funds, and Sales. 
+
+[Clarify to minimize voting, Funds from Harvest Festival Metagarden Money.]
+[Who has the keys to the metagarden?]
+[Brady I'm not sure about this metagarden, cause I don't know who manages it or how the money is determined or what projects etc.]
+
+Maybe if the community gardens are successful the metagarden can develop.
+
+Start with small individual soviergnty projects, and then we can avoid the governance issues of the metagarden.
+
+Also, what if multi-sig fails and people steal from the Meta garden?
+
 
 .:. 
 
@@ -146,9 +161,9 @@ This way, Gitcoin Gets Robots, and Artwork, and the participating artists get Gr
 
 <b>Problem:</b> 
 
-Suppose that you're too poor to give 70% of your profits to a Community Garden?
+Suppose that you're too poor to give a percentage of your profits to a Community Garden?
 
-I personally believe that this is the future of NFT Artwork, and is going to create a differentiated class of artists -- those who are willing to sacrifice and adapt, in order to become in demand and affiliated, and provide value -- and those who continue to attempt to create value by pursuing their muse. I don't have bones with the latter artist, I just find that it's easier to serve a target audience, and advertisement as artwork is a longstanding source of revenue. This is a conscious move in that direction, using the tools that are available, to assist the projects that are qualified and capable of assisting Gardeners through LP Rewards. 
+I personally believe that this is the future of NFT Artwork, and is going to create a differentiated class of artists -- those who are willing to sacrifice and adapt, in order to become in demand and affiliated, and provide value -- and those who continue to attempt to create value by pursuing their muse. I don't have bones with the latter artist, I just find that it's easier to serve a target audience, and advertisement as artwork is a longstanding source of revenue. This is a conscious move in that direction, using the tools that are available to assist the projects that are qualified and capable of assisting Gardeners through LP Rewards. 
 
 I see LP Rewards as a trend game, and an experiment, and the trend appears to be NFT Collections and Social Currency Issuance Stimulus in the early years. These Garden Plots capitalize on both, while also providing value to the community in question in a way that nobody else is doing except for the leader of the community themselves -- and often they are so busy they don't have time for this sort of thing. 
 
@@ -179,6 +194,8 @@ In January, Root will Make 100 Paintings of a SKULL, for a $SKULL Network Challe
 * Kickstarter Make / 100 Campaign 
 * Patreon
 * 100 NFT Collection of SKULLS [30% of Profits go to Root and 70% of Profits go to the $SKULL Grant Farm.]
+
+[address non-specific percentages again, percentages are up to the individual with minimum guides of contribution toward projects.]
  
 The Challenge for that month will also require a Successful Kickstarter Campaign, in addition to creating a 100 Collection. 
 
@@ -195,16 +212,15 @@ With Sales pressure decreased, due to external support for paying bills, you are
 
 <h3><b>Use Case #5 ORDO CIVITAS ARATOREM [O.C.A] - [The Secret Society of Master Gardeners.]</b></h3>
 
-But all of this is sort of complex, and I'm not sure I want to participate, or that people will want to participate, I mean it seems like a lot... [hush...]
+But all of this is sort of complex, and I'm not sure I want to participate, or that people will want to participate, I mean it seems like a lot.
 
+The ORDO CIVITAS ARATOREM is here to challenge you to explore  you the ways of the Master Gardeners. 
 
-The ORDO CIVITAS ARATOREM is here to teach you the ways of the Master Gardeners. 
-
-To be a Community Gardener, you must execute your own challenges, take care of your plots, and contribute to the META Garden. 
+To be a Community Gardener, you must execute your own challenges, take care of your plots, and contribute to the META Garden. [deleted if there is no metagarden.]
 
 To be a MASTER Community Gardener, the road is full of achievement based challenges, which unlock NFT Badges, which provide exclusive access to a Discord Server. [Via Collabland]
 
-This server can also have a Collectors section, where the collectors who support your project, and the project leads themselves can be issued NFTs which also allow them a place in this server. 
+This server can also have a Collectors' section, where the collectors who support your project, and the leaders of the communities you are supporting with your project can be issued NFTs which also allow them a place in this server. 
 
 What you end up creating here is: 
 * a tiered form of accomplishment and ascension, which leads toward an increased understanding of how to effectively execute and grow these plots
@@ -212,6 +228,8 @@ What you end up creating here is:
 * an aggregated alliance of Project Leads who all benefit from, and contribute to the existence of the Community Gardens, by providing their Liquidity Rewards.
 
 Access provides you with collaborative opportunities, a targeted shiling channel, Status and DAO VOTE!
+
+[If nyxing this section because I don't want work load, then proposed challenges will take up time, and the achievement badge award system, would take up a significant amount of time, which I may want to just spend creating and executing my own projects. I don't want a time suck. Not sure if it's something to include now - if community gardens are successful, it might be something to do in the future, along with the metagarden idea. ]
 
 .:. 
 
@@ -268,3 +286,7 @@ We'll also need Collabland organization and some NFTs for the Discord, as well a
 .:. 
 
 There also may be a better way to create the META Garden pools, though I don't know what that looks like. Probably some Solidity Magick there. 
+
+.:. 
+
+Upon further reflection, it seems like I ought to execute these challenges myself first, before creating a community, and DAO fund, because I only want to manage a community like that with other competent people who share responsibility for that leadership, and alleviate the load of responsibilities needed in order to make this project a remarkable training tool. 
