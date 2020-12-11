@@ -1,3 +1,5 @@
+*These concepts are not solid yet, so the words below are a draft.*
+
 
 <h3><b>Use Case #4 Economic Integrations: The Bridge to the FIAT Art World.</b></h3>
 
@@ -168,3 +170,21 @@ Visit @Skeenee's <a href="https://beta.cent.co/skeenee/+mr2ow2">November Blog Po
 
 .:. 
 
+Additional thoughts were discovered today about shared liquidity pools: 
+* The LP Tokens can be collected into an account which then would become the metagarden. So, If I raise 4 LP Tokens for a project during a given month, and I give .25 LP Tokens into the Meta Garden, and someone else is working with the same LP Tokens on another project, and they contribute .25 LP Tokens, then the Metagarden now has a garden worth .5 LP Tokens of that particular garden. 
+
+If we do that again next month, then the Metagarden now has 1 LP Token worth. 
+
+This is how the metagarden accumulates over time. 
+
+.:. 
+
+For Governance, you will still need a Snapshot or an Aragon entity, and you will need to have a Treasury person - preferably with multi-sig. I will have to learn more about aragon. 
+
+.:. 
+
+Also, I can use Colony to establish training modules for the Challenges, and if a challenger completes the challenges, I can issue them an NFT for that challenge which gives them access to an exclusive server. 
+
+In this way, I only have to create the training module Once, and I only have to issue the Tokens once per completion. 
+This would significantly decrease the amount of time spent. 
+I don't want to commit to doing this yet, because I don't know how much time exists, and I'd rather just focus on executing the project. 
