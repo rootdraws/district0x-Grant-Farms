@@ -24,7 +24,7 @@ I will lead this project, and on the 31st of January, I will distribute the Liqu
 
 First Time Challenge participants / winners, will not be required to use a profit share method.
 
-<b>Grant Farm Objectives for the January $SKULL Challenge:</b>
+<b>Grant Farm Objectives for the January $SKULL Challenge:</b> [Ship Date: 1/31/21]
 * Recover .5475 $ETH Investment into the $SKULL Grant Farm, bringing the operation into the black.
 * Distribute 2214 $SKULL in Grant Rewards to 1-3 Challengers. 
 * Contribute .3 ETH worth of liquidity to the <a href="https://etherscan.io/address/0xbeC346627bA83b471d5ab171618274c5333F9f37">$SKULL Grant Farm</a>. 
