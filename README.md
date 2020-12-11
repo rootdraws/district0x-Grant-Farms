@@ -3,7 +3,54 @@ DeFi Community Gardens
 
 .:. 
 
-<h3><b>Use Case #1: A Gardener Grows & Manages their $BAEPAY Community Garden Plot.</b></h3>
+<h3><b>Introduction: The Creation of Grant Farms</b></h3>
+
+In November '20, I made a number of sale passes with my <a href="https://opensea.io/collection/alice">ALICE NFT Collection</a>. The proposal was that I would take all profits from the sale, and redirect those profits into grant related challenges for that community. I used Opensea's 24 Hour Bid Sale, because it is gas efficient, and allows you to switch currencies to target communities, if your NFTs are on their own contract. I also increased the price each round, based on 1/10th the value of the Liquid Grant Funds Available. 
+
+* Round 1: $ETH - 1.2325 $ETH was raised for the Grant. 
+* Round 2: $SKULL - 7360 $SKULL was raised for the Grant. 
+* Round 3: $BAEPAY - 3600 $BAEPAY was raised for the Grant. 
+* Round 4: $KLTR - 450 $KLTR was raised for the Grant.
+
+My Costs were approximated to .02 $ETH per NFT Sold. I haven't recovered my investment yet, but this solution will fix itself over time, and I've also secured a Beta Access to Opensea's ERC - 1155 minter and contract creator, which means that costs for future experiments will be dramatically lowered.
+
+Then I matched the the $ETH from the Grant, into the [$SKULL | $BAEPAY | $KLTR] to form Liquidity Pairs, creating <a href="https://beta.cent.co/rootdraws/+atk5fn">"Grant Farms".</a>
+
+Grant Farms were created using separate wallets with unique seeds. The <b>LP Tokens, Liquid Grant Balances,</b> and any <b>NFT rewards</b> are distributed to their respective Farms, and all balances are transparent here: 
+
+<a href="https://etherscan.io/address/0xbeC346627bA83b471d5ab171618274c5333F9f37">$SKULL Grant Farm</a>
+<a href="https://etherscan.io/address/0xE476C37a862c6603D3179Aa8b10114590Dc1fcfe">$BAEPAY Grant Farm</a> 
+<a href="https://etherscan.io/address/0x77B0F6AB601C6a5B0741CD5B977BB1AaA1794e3e">$KLTR Grant Farm.</a>
+
+This allows me to build and manage the Grant Fund for each community as an investment portfolio, where the source for the grants are the LP Rewards, and the principle investment can be continuously build using a profit share model for future collection sales. 
+
+.:. 
+
+<h3><b>Use Case #0: A Gardener Grows & Manages their $SKULL Community Garden Plot using a Kickstarter Community Challenge!</b></h3> [JAN: 2021]
+
+$SKULL Introduced <a href="https://beta.cent.co/skeenee/+mr2ow2">Liquidity Mining</a> officially in Dec '20, but they have been offering a DIY version through the $SKULL Discord, and announcements on Cent.
+
+$SKULL is also a leader in the <a href="https://tryroll.com/">ROLL Community</a>, and they featured an announcement of $SKULL's Liquidity Rewards in their most recent <a href="https://mailchi.mp/86252b8beae0/roll-update-6103385">Newsletter</a>. I am informed that Roll will be issuing a Liquidity Mining tool in Q1 of 2021, which means we can expect this to be a trend, if it is not considered one already. 
+
+As of right now, $SKULL rewards are 20,000 $SKULL Distributed monthly, proportionately amongst the pool, with various NFT drops. 
+
+The <a href="https://etherscan.io/address/0xbeC346627bA83b471d5ab171618274c5333F9f37">$SKULL Grant Farm</a> has some Liquid Skull in it, and by the end of January '21, I am going to distribute those Liquid rewards as an award to someone who completes a skill building challenge for January. 
+
+<b>The January '21 $SKULL Challenge:</b>
+
+Kickstarter has a <a href="https://www.kickstarter.com/make-100?ref=make100-homepage-banner">Make/100 Challenge</a>, and I'm going to Paint 100 SKULLS, and weave it into a project which is launched on Kickstarter for that month. 
+
+I'm also going to take the 100 Skulls, and turn them into an NFT Collection via the ERC 1155 Beta on Opensea. 
+
+The collection will be sold through a series of rounds [as above] with a profit share Ratio:
+* 30% will return to me. 
+* 70% will be contributed to the Grant Farm of the Contributor's Choice.
+
+I will lead this project, and on the 31st of January, I will distribute the Liquid Grant Value of $SKULL available in the Grant Farm Wallet. 
+
+.:. 
+
+<h3><b>Use Case #1: A Gardener Grows & Manages their $BAEPAY Community Garden Plot.</b></h3> [FEB: 2021]
 
 $BAEPAY has a number of assets for their business: 
 
