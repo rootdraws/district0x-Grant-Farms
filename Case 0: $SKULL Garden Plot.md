@@ -16,7 +16,7 @@ I'm also going to take the 100 Skulls, and turn them into an NFT Collection via 
 
 The collection will be sold through a series of rounds [as above] with a Profit Share Business Model:
 * 30% of Profits to me. 
-* 70% of Profits will be contributed to the Grant Farm of the Contributor's Choice.
+* 70% of Profits will be contributed to the Grant Farm of the Collector's Choice.
 
 In using the Opensea Beta, my costs will be largely reduced. I have put ETH out of pocket into the $SKULL Grant Farm, and will recover that investment.
 
