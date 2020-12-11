@@ -1,3 +1,4 @@
+*This has not happened yet, so the words below are a draft.*
 
 <h3><b>Use Case #1: A Gardener Grows & Manages their $BAEPAY Community Garden Plot.</b></h3> [FEB: 2021]
 
