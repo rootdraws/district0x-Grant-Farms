@@ -1,3 +1,4 @@
+*This has not happened yet, so the words below are a draft.*
 
 <h3><b>Use Case #3 EcoSystem Integrations: In Which GITCOIN Requests a ROBOT!!!.</b></h3>
 
