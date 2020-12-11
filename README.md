@@ -5,24 +5,29 @@ DeFi Community Gardens
 
 <h3><b>Introduction: The Creation of Grant Farms</b></h3>
 
-In November '20, I made a number of sale passes with my <a href="https://opensea.io/collection/alice">ALICE NFT Collection</a>. The proposal was that I would take all profits from the sale, and redirect those profits into grant related challenges for that community. I used Opensea's 24 Hour Bid Sale, because it is gas efficient, and allows you to switch currencies to target communities, if your NFTs are on their own contract. I also increased the price each round, based on 1/10th the value of the Liquid Grant Funds Available. 
+In November '20, I made a number of sale passes with my <a href="https://opensea.io/collection/alice">ALICE NFT Collection</a>. 
+
+The proposal was that I would take all profits from the sale, and redirect those profits into grant related challenges for that community. I used Opensea's 24 Hour Bid Sale, because it is gas efficient, and allows you to switch currencies to target communities.
+
+The price was increased each round, based on 1/10th the value of the Liquid Grant Funds accumulated: 
 
 * Round 1: $ETH - 1.2325 $ETH was raised for the Grant. 
 * Round 2: $SKULL - 7360 $SKULL was raised for the Grant. 
 * Round 3: $BAEPAY - 3600 $BAEPAY was raised for the Grant. 
 * Round 4: $KLTR - 450 $KLTR was raised for the Grant.
 
-My Costs were approximated to .02 $ETH per NFT Sold. I haven't recovered my investment yet, but this solution will fix itself over time, and I've also secured a Beta Access to Opensea's ERC - 1155 minter and contract creator, which means that costs for future experiments will be dramatically lowered.
+My Costs were approximated to .02 $ETH per NFT Sold. These investments will be recovered over time. 
+I've also secured a Beta Access to Opensea's ERC - 1155 minter and contract creator, which means that costs for future experiments will be dramatically lowered.
 
 Then I matched the the $ETH from the Grant, into the [$SKULL | $BAEPAY | $KLTR] to form Liquidity Pairs, creating <a href="https://beta.cent.co/rootdraws/+atk5fn">"Grant Farms".</a>
 
 Grant Farms were created using separate wallets with unique seeds. The <b>LP Tokens, Liquid Grant Balances,</b> and any <b>NFT rewards</b> are distributed to their respective Farms, and all balances are transparent here: 
 
-<a href="https://etherscan.io/address/0xbeC346627bA83b471d5ab171618274c5333F9f37">$SKULL Grant Farm</a>
-<a href="https://etherscan.io/address/0xE476C37a862c6603D3179Aa8b10114590Dc1fcfe">$BAEPAY Grant Farm</a> 
-<a href="https://etherscan.io/address/0x77B0F6AB601C6a5B0741CD5B977BB1AaA1794e3e">$KLTR Grant Farm.</a>
+* <a href="https://etherscan.io/address/0xbeC346627bA83b471d5ab171618274c5333F9f37">$SKULL Grant Farm</a>
+* <a href="https://etherscan.io/address/0xE476C37a862c6603D3179Aa8b10114590Dc1fcfe">$BAEPAY Grant Farm</a> 
+* <a href="https://etherscan.io/address/0x77B0F6AB601C6a5B0741CD5B977BB1AaA1794e3e">$KLTR Grant Farm.</a>
 
-This allows me to build and manage the Grant Fund for each community as an investment portfolio, where the source for the grants are the LP Rewards, and the principle investment can be continuously build using a profit share model for future collection sales. 
+This allows me to build and manage the Grant Fund for each community as an investment portfolio, where the source for the grants are the LP Rewards, and the principle investment can be continuously built using a profit share model for future collection sales. 
 
 .:. 
 
@@ -30,7 +35,7 @@ This allows me to build and manage the Grant Fund for each community as an inves
 
 $SKULL Introduced <a href="https://beta.cent.co/skeenee/+mr2ow2">Liquidity Mining</a> officially in Dec '20, but they have been offering a DIY version through the $SKULL Discord, and announcements on Cent.
 
-$SKULL is also a leader in the <a href="https://tryroll.com/">ROLL Community</a>, and they featured an announcement of $SKULL's Liquidity Rewards in their most recent <a href="https://mailchi.mp/86252b8beae0/roll-update-6103385">Newsletter</a>. I am informed that Roll will be issuing a Liquidity Mining tool in Q1 of 2021, which means we can expect this to be a trend, if it is not considered one already. 
+$SKULL is also a leader in the <a href="https://tryroll.com/">ROLL Community</a>, and they featured an announcement of $SKULL's Liquidity Rewards in their most recent <a href="https://mailchi.mp/86252b8beae0/roll-update-6103385">Newsletter</a>. I am informed that Roll will be issuing a Liquidity Mining tool in Q1 of 2021, which means we can expect this to be a trend among platforms, DeFi Projects, and Social Currencies.
 
 As of right now, $SKULL rewards are 20,000 $SKULL Distributed monthly, proportionately amongst the pool, with various NFT drops. 
 
@@ -47,6 +52,19 @@ The collection will be sold through a series of rounds [as above] with a profit 
 * 70% will be contributed to the Grant Farm of the Contributor's Choice.
 
 I will lead this project, and on the 31st of January, I will distribute the Liquid Grant Value of $SKULL available in the Grant Farm Wallet. 
+
+First Time Challenge participants / winners, will not be required to use a profit share method.
+
+<b>Grant Farm Objectives for the January $SKULL Challenge:</b>
+* To increase the skill levels of the artists who participate in the challenge, as well as their business skills. I'd like to see the grant funds go out to <b>1-3 People</b>. 
+* To increase the base assets of the $SKULL Grant Farm by providing .3 ETH worth of liquidity to the Farm. 
+
+Current Value of the $SKULL Grant Farm: 
+* 5146 $SKULL
+* 1 $ETH
+
+Current Liquid Grant Funds in $SKULL Grant Farm: 
+* 2214 $SKULL
 
 .:. 
 
