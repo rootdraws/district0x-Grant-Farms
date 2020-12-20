@@ -25,7 +25,7 @@ Grant Farms were created using separate wallets with unique seeds. The <b>LP Tok
 
 * <a href="https://etherscan.io/address/0xbeC346627bA83b471d5ab171618274c5333F9f37">$SKULL Grant Farm</a>
 * <a href="https://etherscan.io/address/0xE476C37a862c6603D3179Aa8b10114590Dc1fcfe">$BAEPAY Grant Farm</a> 
-* <a href="https://etherscan.io/address/0x77B0F6AB601C6a5B0741CD5B977BB1AaA1794e3e">$KLTR Grant Farm.</a>
+* <a href="https://etherscan.io/address/0x77B0F6AB601C6a5B0741CD5B977BB1AaA1794e3e">$KLTR Grant Farm.</a> [KLTR Grant Farm <a href="https://beta.cent.co/rootdraws/+8bnszi">got Rekt</a> | So, I sold it to recover personal investment costs into creating each of these Farms. Now $KLTR, $BAEPAY and $SKULL Grant Farms are all operating in the Black.]
 * <a href="https://etherscan.io/address/0x3429D8e6Dd9B619340BABF6A23dDd3C519B1B78d#tokentxns">$DNT Grant Farm.</a> [Added 12/14: this is where Stake is Stored for Submission of the DeFi Community Gardens to the District0x Registry].
 * <a href="https://etherscan.io/address/0xCcf27dEE1b11207FddA7aF6fC41e905c7DC12Bfb#tokentxns">BASED Grant Farm.</a> [Added 12/16]
 
